@@ -1,6 +1,15 @@
 h1{
-	font-size: 50px;
+	font-size: 100px; 
+	font-family: 'Pacifico', cursive;
+	text-align: center; 
 }
+h3{ 
+font-size: 50px;
+font-family:'Dancing Script', cursive; 
+color: pink ; 
+text-align: center; 
+}
+
 img {
   height: 200px;
   width: 200px;
